@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: m79gp40zt-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/m79gp40zt-java-quarkus-gitops
